@@ -3,7 +3,7 @@
 // that they need an Internet connection to run the project if desired.
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
-const CACHE_VERSION = "1661562044|994782251";
+const CACHE_VERSION = "1661588261|27212117168";
 const CACHE_PREFIX = "2d_platformer_pr-sw-cache-";
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 const OFFLINE_URL = "gose_a.offline.html";
